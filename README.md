@@ -1,16 +1,22 @@
 ## Hi there 👋
+# Hi, I'm Rishu 👋
 
-<!--
-**developrishu-cell/developrishu-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
 
-Here are some ideas to get you started:
+💻 Interested in Data Analytics, Machine Learning, and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- NumPy
+- Pandas
+- SQL
+
+## Currently Learning
+- Machine Learning
+- NLP
+- Deployment
+
+## Connect
+LinkedIn: www.linkedin.com/in/rishu-ranjan-choudhary-665150358
+
+
